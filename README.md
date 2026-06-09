@@ -1,4 +1,5 @@
 # pw1
-open saucedemo.com using playwright</bw>
-username:standard_user</bw>
-pwd: secret_user
+open saucedemo.com using playwright </br>
+username:standard_user< </br>
+pwd: secret_user </br>
+open
